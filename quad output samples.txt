@@ -1,0 +1,24 @@
+A
+o---o
+|   |
+o---o
+
+B
+/***\
+*   *
+\***/
+
+C
+ABBBA
+B   B
+CBBBC
+
+D
+ABBBC
+B   B
+ABBBC
+
+E
+ABBBC
+B   B
+CBBBA
